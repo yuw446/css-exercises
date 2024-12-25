@@ -1,0 +1,32 @@
+:root{
+    --main-bg-color: #FFA6A7;
+    --highlight-bg-color: #81FF80;
+    --main-text-color: #333;
+    --secondary-text-color: #0004FF;
+}
+
+body{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.general-text{
+    background-color: var(--main-bg-color);
+    font-size: 16px;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#num2{
+    color: var(--secondary-text-color);
+    font-size: 36px;
+}
+
+p.cooler-text{
+    font-size: 24px;
+}
+
+#num4{
+    background-color: var(--highlight-bg-color);
+    font-size: 24px;
+    font-weight: bold;
+}
