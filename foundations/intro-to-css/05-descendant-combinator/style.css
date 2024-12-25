@@ -10,7 +10,7 @@ body{
     margin: 0 auto;
 }
 
-div > p {
+div p{
     background-color: yellow;
     color: red;
     text-align: center;
